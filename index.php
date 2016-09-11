@@ -5,7 +5,8 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <style>
       body {background-image: url(http://tanakamusic.com/wp-content/uploads/2013/05/Daft-Punk-SNL.jpg);
-            background-size: cover; }
+            background-size: cover;
+            background-attachment: fixed;}
       h1, h2 {color: #FFF; font-family: 'Open Sans';
          top: 60%;
          width: 100%;
