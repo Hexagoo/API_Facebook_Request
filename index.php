@@ -4,10 +4,10 @@
     <meta charset="utf-8">
   </head>
 
-  <?php include_once("../participants.php") ?>
+  <?php include_once("appel.php") ?>
 
   <body>
-  	<?php $participants ?>
+  	<?php echo $participants; ?>
 
   </body>
 

@@ -3,7 +3,7 @@
 
   require_once __DIR__ . '/facebook-php-sdk-v4/src/Facebook/autoload.php';
   use Facebook\Facebook;
-  session_start()
+  session_start();
 
   /* Access_token en dur */
   /* Grâce à => https://graph.facebook.com/oauth/access_token?client_id=1515749448735803&client_secret=ff6315aacd534cbf4207abee23c9d917&grant_type=client_credentials&__mref=message */
