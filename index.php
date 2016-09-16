@@ -4,17 +4,24 @@
     <meta charset="utf-8">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <style>
-      h1, h2 {color: #333; font-family: 'Open Sans';
+      h1, h2, a {
+         color: #333;
+         font-family: 'Open Sans';
          top: 30%;
          width: 100%;
          text-align: center;
          position: absolute;
-         font-size: 5.5em
+         font-size: 5.5em;
+         text-decoration: none;
        }
        h2 {
-         position: relative;
          top: 11.5em;
          font-size: 2em;
+       }
+       a {
+         font-size: 1em;
+         top: 90%;
+         color: #545657
        }
     </style>
   </head>
@@ -30,6 +37,7 @@
       ?>
     </h1>
     <h2>participants</h2>
+    <a href="https://twitter.com/nico_fevre"><p>@nico_fevre</p></a>
   </body>
 
 </html>
