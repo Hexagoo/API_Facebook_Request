@@ -20,6 +20,6 @@ Cliquez sur "Ajoutez une app", une fois créée récupérer ces deux clés. Ces 
 
 <h2>3) Choisissez les élèments à afficher</h2>
 
-Grâce à l'API Facebook vous avez accès à un esemble de méthodes. Visitez la <a href="https://developers.facebook.com/docs/graph-api/reference" documentation Facebook pour plus d'informations.</a>
+Grâce à l'API Facebook vous avez accès à un esemble de méthodes. Visitez la <a href="https://developers.facebook.com/docs/graph-api/reference"> documentation Facebook pour plus d'informations.</a>
 
 Une question ? Une remarque ? Un suggestion ? Contactez-moi à fevre.nico@hotmail.fr
