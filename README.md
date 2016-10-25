@@ -22,4 +22,4 @@ Cliquez sur "Ajoutez une app", une fois créée récupérer ces deux clés. Ces 
 
 Grâce à l'API Facebook vous avez accès à un esemble de méthodes. Visitez la <a href="https://developers.facebook.com/docs/graph-api/reference" target="_blank"> documentation Facebook pour plus d'informations.</a>
 
-Une question ? Une remarque ? Un suggestion ? Contactez-moi à fevre.nico@hotmail.fr 
+Une question ? Une remarque ? Un suggestion ? Contactez-moi à fevre.nico@hotmail.fr
