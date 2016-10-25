@@ -14,7 +14,7 @@ Pour cela rendez-vous <a href="https://developers.facebook.com/" target="_blank"
 
 <h2>2) Créer votre application</h2>
 
-Le but est ici de récupérer <strong>2 clés</strong>. La première l'<em>"app_id" et la seconde l'<em>"app_secret"</em>, ces deux clés vont vous permettre de vous authentifier auprès de Facebook afin qu'il vous laisse utiliser son API.
+Le but est ici de récupérer <strong>2 clés</strong>. La première l'<em>"app_id"</em> et la seconde l'<em>"app_secret"</em>, ces deux clés vont vous permettre de vous authentifier auprès de Facebook afin qu'il vous laisse utiliser son API.
 
 Cliquez sur "Ajoutez une app". Une fois votre app créée, récupérez les deux clés. Ces deux clés seront à disposer au bon emplacement dans le fichier <em>appel.php</em>
 
