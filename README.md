@@ -5,7 +5,7 @@
 Facebook met à disposition de n'importe qui une API qui permet de récupérer des informations tels que : le nombre de "J'aime" sur un post Facebook, la photo de votre groupe de musique préféré ou encore (et c'est l'exemple que j'ai choisi ici) le nombre de participants à un évènement Facebook.
 Pour voir la définition d'une API.
 
-Voici ce que nous cherchons à afficher : <a href="http://www.nicolasfevre.com/github/api_facebook_request.php">Requête Facebook.</a>
+Voici ce que nous cherchons à afficher : <a href="http://www.nicolasfevre.com/doc/github/api_facebook_request.php">Requête Facebook.</a>
 
 <h2>1) Créer un compte Facebook Developpers</h2>
 
